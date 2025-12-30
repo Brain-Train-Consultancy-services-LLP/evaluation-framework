@@ -13,3 +13,21 @@ Criteria:
 
 No ranking. No guarantees.
 
+---
+
+## Evaluation Layer (Smart Interns Only)
+
+This repository defines the evaluation framework for applied Smart Interns.
+
+Important clarifications:
+
+- Evaluation is conducted at an individual level, not at a team level
+- Smart Interns may collaborate with:
+  - Non-applicants
+  - International contributors
+  - Alumni
+- Team participation does not guarantee evaluation
+
+Only individuals who have applied as Smart Interns may be tracked for evaluation.
+
+
